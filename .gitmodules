@@ -1,0 +1,3 @@
+[submodule "gb-api"]
+	path = gb-api
+	url = https://github.com/baROM-code/gb-api
