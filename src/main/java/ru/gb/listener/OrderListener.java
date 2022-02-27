@@ -7,7 +7,7 @@ import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Component;
 import ru.gb.api.events.OrderEvent;
 import ru.gb.config.JmsConfig;
-import ru.gb.sender.MailService;
+import ru.gb.services.MailService;
 
 @RequiredArgsConstructor
 @Component

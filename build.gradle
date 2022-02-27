@@ -28,7 +28,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-artemis'
     implementation 'org.springframework.boot:spring-boot-starter-mail:2.6.3'
 
-    implementation files('lib/gb-api-0.1.23-plain.jar')
+    implementation files('lib/gb-api-0.1.24-plain.jar')
 }
 
 dependencyManagement {
